@@ -1,4 +1,4 @@
-# Weather report application
+# Weather forecast app
 
 This project is a "WEATHER REPORT APPLICATION" built using *React*. The application allows users to search for cities, view city weather details, and explore weather forecasts. TypeScript is optional and not required for this implementation.
 
@@ -68,8 +68,8 @@ This project is a "WEATHER REPORT APPLICATION" built using *React*. The applicat
 
         The app must have the following functionalities
 
-        When the app is opened, Weather report application Page should be displayed
-        When the Weather report application Page is opened,
+        When the app is opened, Weather forecast app Page should be displayed
+        When the Weather forecast app Page is opened,
         Make HTTP GET request to the CitiesApiUrl
         After fetching the data, the list of Cities name should be displayed
         When we click on the cities name in Home Route is clicked,
@@ -103,7 +103,7 @@ Description:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Sachinkalyan21/weather-report-application.git
+   git clone https://github.com/Sachinkalyan21/weather-forecast-app.git
    cd weather-app
 2. Install the dependencies:
    bash
